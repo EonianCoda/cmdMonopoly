@@ -1,0 +1,71 @@
+﻿  Game.cpp
+  GameSystem.cpp
+D:\下載\大富翁\Monopoly\GameSystem.cpp(24,12): warning C4244:  '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(243,53): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(259,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(261,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(300,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(302,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(310,34): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(311,34): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(312,34): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(313,34): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(342,53): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(344,53): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(352,13): warning C4244:  '=': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(435,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(437,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(489,67): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(568,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(570,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(609,68): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(651,51): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(653,51): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(688,42): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(690,46): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(704,82): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(705,86): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(710,82): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(711,86): warning C4244:  '引數': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(806,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(808,52): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(1313,77): warning C4267:  '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(2611,70): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3236,77): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3255,77): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3323,46): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3549,6): warning C4101:  'type': 未參考的區域變數
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3624,6): warning C4101:  'type': 未參考的區域變數
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3784,78): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  main.cpp
+  MapObj.cpp
+D:\下載\大富翁\Monopoly\GameSystem.cpp(3792,80): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\MapObj.cpp(68,38): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\MapObj.cpp(94,38): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\MapObj.cpp(165,22): warning C4244:  'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\MapObj.cpp(218,41): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\MapObj.cpp(240,20): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Music.cpp
+  Player.cpp
+D:\下載\大富翁\Monopoly\MapObj.cpp(243,20): warning C4244:  '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\Player.cpp(74,20): warning C4267:  'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  StockMarket.cpp
+D:\下載\大富翁\Monopoly\Player.cpp(213,22): warning C4267:  'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\StockMarket.cpp(58,36): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  UI.cpp
+D:\下載\大富翁\Monopoly\StockMarket.cpp(69,36): warning C4244:  '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\下載\大富翁\Monopoly\UI.cpp(69,3): warning C4129:  '>': 無法辨識的字元逸出序列
+D:\下載\大富翁\Monopoly\UI.cpp(192,4): warning C4129:  '/': 無法辨識的字元逸出序列
+D:\下載\大富翁\Monopoly\UI.cpp(196,4): warning C4129:  '/': 無法辨識的字元逸出序列
+D:\下載\大富翁\Monopoly\UI.cpp(1091,39): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1693,26): warning C4267:  '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1699,25): warning C4267:  '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1787,46): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1803,47): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1817,47): warning C4267:  '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1912,26): warning C4267:  '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(1918,25): warning C4267:  '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼...
+D:\下載\大富翁\Monopoly\UI.cpp(2152,53): warning C4267:  '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\下載\大富翁\Monopoly\UI.cpp(2152,53): warning C4267: D:\下載\大富翁\Monopoly\MapObj.cpp(253) : warning C4715: 'MapObj::payTollPassBy': 不是所有控制路徑都傳回值
+  Monopoly.vcxproj -> D:\下載\大富翁\x64\Debug\Monopoly.exe
