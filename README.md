@@ -1,4 +1,5 @@
 # cmdMonopoly
+This is a monopoly game running on Windows command line.
 在cmd上運行的大富翁遊戲，使用滑鼠進行操作  
   
 開始畫面：  
