@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+Debug
+.vs
+*.rec
+*.user
+*.filters
+SavedData
