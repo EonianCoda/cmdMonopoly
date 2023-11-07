@@ -31,9 +31,19 @@
 *.out
 *.app
 
+# Others
+*.db
+*.tlog
+*.pdb
+*.suo
+*.log
+
 Debug
 .vs
 *.rec
 *.user
 *.filters
 SavedData
+project/x64/*
+
+!project/Monopoly/Monopoly.exe
